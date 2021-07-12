@@ -1,0 +1,18 @@
+Bookself Management System v 1.0
+launch!!!
+Menu :
+1. Lihat Rak Buku(dir)
+2. Baca Buku(system"nama buku")		
+3.Daftar Baca(current data dari input baca buku + lokasi)
+4. Daftar Perintah
+
+
+Bookself Management System v 1.1
+//penambahan fitur kategori dan pencarian
+1. Lihat Rak Buku(dir)
+	a. Baca Buku(system"nama buku")
+	b. Tambah Buku
+	c. Hapus Buku
+		
+2.Daftar Baca(current data dari input baca buku + lokasi)
+3.
